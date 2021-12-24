@@ -1,4 +1,4 @@
-# 3-layer-NEURAL-NETWORK
+# 3-layer-NEURAL-NETWORK from Scratch
 BUILDING A 3 LAYER NEURAL NETWORK and Training it on 3 different datasets. (Achieving 99.5% accuracy)
 
 Datasets-
